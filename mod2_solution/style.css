@@ -6,10 +6,10 @@
 
 h1 {
 	margin-top: 25px;
-  	margin-bottom: 25px;
-  	font-size: 175%
-  	font-style: Helvetica;
-  	text-align: center;
+  margin-bottom: 25px;
+  font-size: 175%
+  font-style: Helvetica;
+  text-align: center;
 }
 
 .section{
@@ -17,26 +17,25 @@ h1 {
 	border: 3px solid black;
 	height: 150px;    
  	margin-right: 15px;    
-  	margin-left: 15px;    
-  	margin-bottom: 15px; 
-  	padding: 5px;   
+  margin-left: 15px;    
+  margin-bottom: 15px; 
+    
   		
 }
 
 
 h2 {
   border: 1px solid black;
-  width: 22%;
+  width: 20%;
   height: 22%;
-  margin-top: -5px;
-  margin-bottom: 0;
-  margin-right: -5px;
+  margin: 0;
   position: relative;
   left: 80%;
   font-family: Helvetica;
+  text-align: center;
   color: white;
-  text-align: right;
-  font-size: 125%
+  font-size: 125%;
+
 }
 
 .Tokyo{
@@ -53,8 +52,12 @@ h2 {
 }
 
 p{
-	font-style: Georgia;
-	overflow: hidden;
+	font-style: Helvetica;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+	
 	
 }
 /* Simple Responsive Framework. */
