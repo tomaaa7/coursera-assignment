@@ -5270,7 +5270,7 @@ button.list-group-item {
   color: #555;
 }
 a.list-group-item .list-group-item-heading,
-button.list-group-item .list-group-item-heading {
+.list-group-item .list-group-item-heading {
   color: #333;
 }
 a.list-group-item:hover,
